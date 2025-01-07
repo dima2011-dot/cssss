@@ -1,0 +1,13 @@
+.wwww {
+  height: 500px;
+  width: 500px;
+  margin: 15px;
+  padding: 5px;
+  border: 3px solid silver;
+  border-radius: 15px;
+  background: rgb(143, 231, 121);
+  float: left;
+}
+.wwww:hover {
+  opacity: 0.8;
+}
